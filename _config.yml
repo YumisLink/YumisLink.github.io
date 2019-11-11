@@ -5,9 +5,9 @@ kramdown:
 permalink: /posts/:categories/:title # 博文目录
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 
-title: wu-kan
-url: http://wu-kan.github.io
-author: WuK
+title: Yumis
+url: http://YumisLink.github.io
+author: Yumis
 
 head: # 删改前确定知道自己在做什么
 - tag: meta # Enable responsiveness on mobile devices
@@ -181,8 +181,8 @@ sidebar:
   - title: rss
     href: /atom.xml
     class: 'fas fa-rss fa-fw'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
+  - title: 635691684@qq.com # email
+    href: mailto:635691684@qq.com
     class: 'fas fa-envelope fa-fw'
   - title: WuK # codeforces
     href: //codeforces.com/profile/WuK
