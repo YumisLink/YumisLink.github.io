@@ -184,21 +184,21 @@ sidebar:
   - title: 635691684@qq.com # email
     href: mailto:635691684@qq.com
     class: 'fas fa-envelope fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
+  - title: Yumis # codeforces
+    href: //codeforces.com/profile/Yumis
     class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
+  - title: Yumis # vjudge
+    href: //vjudge.net/user/Yumis
     class: 'fas fa-smile fa-fw'
   - title: 635691684 # qq
     class: 'fab fa-qq fa-fw'
-  - title: Wu-_-Kan # weixin
+  - title: yuxuanrsama # weixin
     class: 'fab fa-weixin fa-fw'
   - title: github
-    href: //github.com/wu-kan
+    href: //github.com/Yumis
     class: 'fab fa-github fa-fw'
-  - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
+  - title: bilibili
+    href: //space.bilibili.com/342932234
     class: 'fab fa-zhihu fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
