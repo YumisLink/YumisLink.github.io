@@ -187,8 +187,8 @@ sidebar:
   - title: Yumis # codeforces
     href: //codeforces.com/profile/Yumis
     class: 'fas fa-chart-bar fw'
-  - title: Yumis # vjudge
-    href: //vjudge.net/user/Yumis
+  - title: TreeCreat # vjudge
+    href: //csacademy.com/app/graph_editor/
     class: 'fas fa-smile fa-fw'
   - title: 635691684 # qq
     class: 'fab fa-qq fa-fw'
