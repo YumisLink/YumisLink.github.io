@@ -192,8 +192,8 @@ sidebar:
     class: 'fas fa-smile fa-fw'
   - title: 635691684 # qq
     class: 'fab fa-qq fa-fw'
-  - title: yuxuanrsama # weixin
-    class: 'fab fa-weixin fa-fw'
+  - title: TreeCreate  # weixin
+    class: //csacademy.com/app/graph_editor/
   - title: github
     href: //github.com/Yumis
     class: 'fab fa-github fa-fw'
